@@ -1,3 +1,6 @@
+<img width="758" alt="image" src="https://github.com/mystafe/currency-converter-v2/assets/75567558/70de082f-f055-4002-89c6-6c79f2b744f5">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -7,6 +10,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `npm start`
+Runs the app in the production mode.\
+Open [https://currency-converter.netlify.app/](https://currency-converter.netlify.app/) to view it in your browser.
+
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
