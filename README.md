@@ -11,7 +11,7 @@ In the project directory, you can run:
 
 ### `npm start`
 Runs the app in the production mode.\
-Open [https://currency-converter.netlify.app/](https://currency-converter.netlify.app/) to view it in your browser.
+Open [https://currency-converter-v2.netlify.app/](https://currency-converter-v2.netlify.app/) to view it in your browser.
 
 
 Runs the app in the development mode.\
