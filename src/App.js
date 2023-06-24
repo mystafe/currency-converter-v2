@@ -1,16 +1,13 @@
 import "./App.css";
-import Footer from "./components/Footer";
-import Header from "./components/Header";
-import Main from "./components/Main";
+import Currency from "./compononents/Currency";
+import Footer from "./compononents/Footer";
 
 function App() {
   return (
-    <div className="App">
-      <div>
-        <Header />
-        <Main />
-      </div>
-      <Footer />
+    <div className="container">
+      <Currency></Currency>
+
+      <Footer></Footer>
     </div>
   );
 }
